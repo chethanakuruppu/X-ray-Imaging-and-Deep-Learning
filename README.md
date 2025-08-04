@@ -1,4 +1,4 @@
-This is the initial README file.
+Building upon the general framework for CNN training, this section summarizes specific hyper parameter settings used across various architectures explored in this study. Although the foundational strategies, such as scheduling the learning rate, regularizing, and selecting optimizer, remain consistent, their specific values and combinations are tailored to the demands of each model.
 <table>
   <caption>
     Table 1: Hyperparameter configurations used for different CNN and FNN architectures.
